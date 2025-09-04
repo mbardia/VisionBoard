@@ -7,7 +7,7 @@ Users can try out a demo (edits saved locally) or sign up to save boards and syn
 
 ## 🚀 Live Demo
 Deployed on [**Vercel**](https://vercel.com):  
-👉 https://vision-board-eih4.vercel.app/ (replace with your actual Vercel URL)
+👉 https://vision-board-eih4.vercel.app/ 
 
 ---
 
